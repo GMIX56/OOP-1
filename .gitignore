@@ -1,4 +1,7 @@
 .venv/
-*Bank*
-*Calc*
-*Coin*
+BankAccountClass.py
+BankAccountProgram.py
+calc_gross_pay.py
+Coin Toss.py
+CoinClass.py
+CoinToss2.py
