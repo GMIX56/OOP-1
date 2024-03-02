@@ -1,7 +1,7 @@
 .venv/
-BankAccountClass.py
-BankAccountProgram.py
-calc_gross_pay.py
-Coin Toss.py
-CoinClass.py
+$ git rm BankAccountClass.py
+$ git rmBankAccountProgram.py
+$ git rmcalc_gross_pay.py
+$ git rmCoin Toss.py
+$ git rmCoinClass.py
 CoinToss2.py
